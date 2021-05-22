@@ -14,6 +14,8 @@ We also thought of people with special conditions ( disabilities, old people ) .
 
 also due to COVID 19 lots of people find it hard and risky to go to the cabinet to take an appointment
 
+See description_project.pdf for more details 
+
 This application has 2 types of users : Doctors and Clients and each one of them has different functionalities within the app
 
 
